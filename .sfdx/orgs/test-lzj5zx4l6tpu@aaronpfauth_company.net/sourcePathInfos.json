@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1510108413937,
-            "changeTime": 1510108413937,
-            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86",
+            "size": 352,
+            "modifiedTime": 1510109459496,
+            "changeTime": 1510109459496,
+            "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -49,11 +49,11 @@
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1510108672842,
-            "changeTime": 1510108672842,
+            "size": 256,
+            "modifiedTime": 1510109754170,
+            "changeTime": 1510109754170,
             "isWorkspace": false,
-            "contentHash": "9326376ac7a83fa55b6297fd323171c02c6fa6d0"
+            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
         }
     ],
     [
@@ -268,14 +268,14 @@
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1510109674000,
+            "changeTime": 1510109674718,
+            "contentHash": "0c3c95921b8728b0323294afc77507914c6b90d0",
             "isMetadataFile": false,
-            "size": 162,
-            "modifiedTime": 1510108770955,
-            "changeTime": 1510108770955,
-            "contentHash": "e8f30dd33854183d1ead02f7fd79522a71adb48d"
+            "state": "u"
         }
     ],
     [
@@ -437,27 +437,27 @@
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1510108672844,
             "changeTime": 1510108672844,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1510108545728,
             "changeTime": 1510108545728,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -467,36 +467,36 @@
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 355,
-            "modifiedTime": 1510108693329,
-            "changeTime": 1510108693329,
-            "contentHash": "ad7913495e1bf0d67f0736011d14ca2344c3d159"
+            "size": 563,
+            "modifiedTime": 1510109839645,
+            "changeTime": 1510109839645,
+            "contentHash": "38e2d48f295400eb626ce20168abd131673d80ea"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1510108672842,
             "changeTime": 1510108672842,
-            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726"
+            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1510108724322,
             "changeTime": 1510108724322,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -506,114 +506,426 @@
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 257,
-            "modifiedTime": 1510108710000,
-            "changeTime": 1510108710427,
-            "contentHash": "e73058759883d04b007cf9974a348374dd300bc8"
+            "size": 402,
+            "modifiedTime": 1510109881000,
+            "changeTime": 1510109881304,
+            "contentHash": "7d72ae96f4c47594e81e3f99e5a4d94b2702b1f3"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1510108672843,
             "changeTime": 1510108672843,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1510108672844,
             "changeTime": 1510108672844,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 139,
             "modifiedTime": 1510108611878,
             "changeTime": 1510108611878,
-            "contentHash": "b1f57d1b8dd2593c430d5a1fbdb8944994bda742"
+            "contentHash": "b1f57d1b8dd2593c430d5a1fbdb8944994bda742",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1510108545726,
             "changeTime": 1510108545726,
-            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71"
+            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1510108623933,
             "changeTime": 1510108623933,
-            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1510108545727,
             "changeTime": 1510108545727,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1510108545727,
             "changeTime": 1510108545727,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1510108545728,
             "changeTime": 1510108545728,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1510109459497,
+            "changeTime": 1510109459497,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1510109459583,
+            "changeTime": 1510109459583,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1510109459503,
+            "changeTime": 1510109459503,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1510109459500,
+            "changeTime": 1510109459501,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1510109459501,
+            "changeTime": 1510109459501,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2586,
+            "modifiedTime": 1510109459502,
+            "changeTime": 1510109459502,
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1510109459502,
+            "changeTime": 1510109459502,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1510109459503,
+            "changeTime": 1510109459503,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "size": 389832,
+            "modifiedTime": 1510109459523,
+            "changeTime": 1510109459523,
+            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 741401,
+            "modifiedTime": 1510109459575,
+            "changeTime": 1510109459575,
+            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "size": 14061,
+            "modifiedTime": 1510109459576,
+            "changeTime": 1510109459576,
+            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "size": 137208,
+            "modifiedTime": 1510109459579,
+            "changeTime": 1510109459579,
+            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "size": 186247,
+            "modifiedTime": 1510109459584,
+            "changeTime": 1510109459584,
+            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1510109459500,
+            "changeTime": 1510109459500,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1510109547139,
+            "changeTime": 1510109547139,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 328,
+            "modifiedTime": 1510109918386,
+            "changeTime": 1510109918386,
+            "contentHash": "4f8096ca64ef66aa8a97f3e8d747cfed262bc886"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1510109547137,
+            "changeTime": 1510109547137,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1510109605665,
+            "changeTime": 1510109605665,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 838,
+            "modifiedTime": 1510109948000,
+            "changeTime": 1510109948049,
+            "contentHash": "779874878e9cf8f1bc1853bb3bc42bfb3aa0cb42"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1510109547138,
+            "changeTime": 1510109547138,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1510109547139,
+            "changeTime": 1510109547139,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1510109754170,
+            "changeTime": 1510109754170,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1510109775000,
+            "changeTime": 1510109775350,
+            "contentHash": "93f2ea04427212bae4e58e2b292f915f6cdd03ad"
+        }
+    ],
+    [
+        "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaronpfauth/CLD_Code/DX_Tests/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1510109754170,
+            "changeTime": 1510109754170,
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
         }
     ]
 ]
